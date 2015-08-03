@@ -8,7 +8,7 @@ This is my first go at a functional language.  I'd appreciate any feedback on my
 
 Go to the generator at this link:
     
-    https://www.wolframcloud.com/objects/user-f5b01625-1be5-47ac-8cd6-538aa2ec1ae2/Class%20Graph
+https://www.wolframcloud.com/objects/user-f5b01625-1be5-47ac-8cd6-538aa2ec1ae2/Class%20Graph
 
 Pick a department and see the generator graph.  Larger departments will take time.  Try LAT department for a small one.
 
